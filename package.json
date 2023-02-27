@@ -1,8 +1,8 @@
 
 {
-  "name": "letswatch",
+  "name": "ReNameThis",
   "version": "1.0.0",
-  "description": "an online cinema",
+  "description": "RenameThis",
   "main": "index.js",
   "type": "module",
   "scripts": {
